@@ -5,7 +5,7 @@
 brand: "Xíu"
 
 # text below the brand name
-brand_sub_text: "@xiu20042021"
+brand_sub_text: "@XiuNgo"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Xíu"
@@ -54,7 +54,7 @@ contacts:
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""
-  - facebook: "xiu20042021"
+  - facebook: "XiuNgo.NhuY"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
