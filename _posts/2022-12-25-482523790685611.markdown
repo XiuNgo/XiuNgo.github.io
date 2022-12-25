@@ -10,7 +10,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://xiungo.github.io/img/475426381395352.jpg"
+img: "https://xiungo.github.io/img/482523790685611.jpg"
 # disable comments on this page
 #comments_disable: false
 
@@ -36,14 +36,14 @@ date: 2022-12-25 21:14:35 +0900
 #published: false
 ---
 <br>
-hóa ra,
-một cuộc gặp gỡ
-có thể đánh bại hết tất cả sự kiên cường trong thời gian qua
-
-tự hỏi:
-"rốt cuộc thì tình yêu như thế nào mới đi được tới cuối cùng"
+hóa ra, <br>
+một cuộc gặp gỡ<br>
+có thể đánh bại hết tất cả sự kiên cường trong thời gian qua<br>
+<br>
+tự hỏi:<br>
+"rốt cuộc thì tình yêu như thế nào mới đi được tới cuối cùng"<br>
 <!-- outline-end -->
 
-<img src= "https://xiungo.github.io/img/475426381395352.jpg">
+<img src= "https://xiungo.github.io/img/482523790685611.jpg">
 
 
