@@ -35,11 +35,11 @@ date: 2022-12-28 22:07:35 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Ngày hôm nay của bạn thế nào? Ổn chứ?
-Tớ thì hình như không ổn lắm 
-Dù ổn hay không, chúc bạn đêm nay sẽ có một giấc ngủ thiệt ngon, ngày mai lại cố gắng nhé 😘
+Ngày hôm nay của bạn thế nào? Ổn chứ?<br>
+Tớ thì hình như không ổn lắm <br>
+Dù ổn hay không, chúc bạn đêm nay sẽ có một giấc ngủ thiệt ngon, ngày mai lại cố gắng nhé 😘<br>
 <!-- outline-end -->
 
-<img src= "">
+<br>
 
 
