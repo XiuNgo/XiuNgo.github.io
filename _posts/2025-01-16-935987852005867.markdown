@@ -12,7 +12,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://anhoaikhonglon.github.io/img/935987852005867.jpg"
+img: "https://xiungo.github.io/img/935987852005867.jpg"
 # disable comments on this page
 #comments_disable: false
 # publish date
@@ -52,4 +52,4 @@ Mấy năm nay trí nhớ của mẹ cũng bắt đầu giảm, chuyện nhớ c
 
 Ba mẹ chi cho con bao nhiêu cũng được, chẳng nghĩ ngợi gì mà tới lúc xài tiền con thì tính từng đồng từng cắc, nghĩ tới nghĩ lui, lo này lo nọ.
 <!-- outline-end -->
-<img src= "https://anhoaikhonglon.github.io/img/935987852005867.jpg">
+<img src= "https://xiungo.github.io/img/935987852005867.jpg">

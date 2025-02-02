@@ -12,7 +12,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://anhoaikhonglon.github.io/img/907070501564269.jpg"
+img: "https://xiungo.github.io/img/907070501564269.jpg"
 # disable comments on this page
 #comments_disable: false
 # publish date
@@ -58,4 +58,4 @@ Nhưng mà, khó nhỉ? Khi việc không như mong muốn xảy đến, mình l
 
 #Xíu
 <!-- outline-end -->
-<img src= "https://anhoaikhonglon.github.io/img/907070501564269.jpg">
+<img src= "https://xiungo.github.io/img/907070501564269.jpg">

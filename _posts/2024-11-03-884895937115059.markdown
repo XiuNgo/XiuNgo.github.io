@@ -12,7 +12,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://anhoaikhonglon.github.io/img/884895937115059.jpg"
+img: "https://xiungo.github.io/img/884895937115059.jpg"
 # disable comments on this page
 #comments_disable: false
 # publish date
@@ -66,4 +66,4 @@ Có người lại thích trải nghiệm đó đây, lấp đầy ký ức.
 
 Ảnh: xin của bé Nhà, chớ hôm đi coi khum có chụp 
 <!-- outline-end -->
-<img src= "https://anhoaikhonglon.github.io/img/884895937115059.jpg">
+<img src= "https://xiungo.github.io/img/884895937115059.jpg">

@@ -12,7 +12,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://anhoaikhonglon.github.io/img/896110552660264.jpg"
+img: "https://xiungo.github.io/img/896110552660264.jpg"
 # disable comments on this page
 #comments_disable: false
 # publish date
@@ -52,4 +52,4 @@ Sách của Nhà mình hông review gì ở đây đâu, vì có gì đâu mà r
 #venhaanbatchaohanh
 #Xíu
 <!-- outline-end -->
-<img src= "https://anhoaikhonglon.github.io/img/896110552660264.jpg">
+<img src= "https://xiungo.github.io/img/896110552660264.jpg">
